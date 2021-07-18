@@ -13,4 +13,9 @@ if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
 		<?php dynamic_sidebar( 'sidebar-1' ); ?>
 	</aside><!-- .widget-area -->
 
+
+	<aside class="widget-area">
+		<p>arlinda test 1223</p>
+		<?php dynamic_sidebar( 'sidebar-1' ); ?>
+	</aside><!-- .widget-area -->
 <?php endif; ?>
