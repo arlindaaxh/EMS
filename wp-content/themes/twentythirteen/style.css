@@ -949,7 +949,9 @@ ul.nav-menu .focus > ul,
 .menu-toggle {
 	display: none;
 }
-
+.test{
+	color:blue;
+}
 /* Navbar */
 .navbar {
 	background-color: #1d1e24;
